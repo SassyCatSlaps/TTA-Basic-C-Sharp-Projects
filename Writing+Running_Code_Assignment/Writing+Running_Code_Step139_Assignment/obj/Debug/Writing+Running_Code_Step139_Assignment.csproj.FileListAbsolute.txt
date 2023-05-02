@@ -1,0 +1,7 @@
+C:\Users\vlarm\source\repos\Writing+Running_Code_Assignment\Writing+Running_Code_Step139_Assignment\bin\Debug\Writing+Running_Code_Step139_Assignment.exe.config
+C:\Users\vlarm\source\repos\Writing+Running_Code_Assignment\Writing+Running_Code_Step139_Assignment\bin\Debug\Writing+Running_Code_Step139_Assignment.exe
+C:\Users\vlarm\source\repos\Writing+Running_Code_Assignment\Writing+Running_Code_Step139_Assignment\bin\Debug\Writing+Running_Code_Step139_Assignment.pdb
+C:\Users\vlarm\source\repos\Writing+Running_Code_Assignment\Writing+Running_Code_Step139_Assignment\obj\Debug\Writing+Running_Code_Step139_Assignment.csproj.AssemblyReference.cache
+C:\Users\vlarm\source\repos\Writing+Running_Code_Assignment\Writing+Running_Code_Step139_Assignment\obj\Debug\Writing+Running_Code_Step139_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\vlarm\source\repos\Writing+Running_Code_Assignment\Writing+Running_Code_Step139_Assignment\obj\Debug\Writing+Running_Code_Step139_Assignment.exe
+C:\Users\vlarm\source\repos\Writing+Running_Code_Assignment\Writing+Running_Code_Step139_Assignment\obj\Debug\Writing+Running_Code_Step139_Assignment.pdb
