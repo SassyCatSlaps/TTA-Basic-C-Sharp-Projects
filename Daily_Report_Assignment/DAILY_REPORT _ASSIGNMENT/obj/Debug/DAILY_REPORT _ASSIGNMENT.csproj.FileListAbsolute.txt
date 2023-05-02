@@ -1,0 +1,7 @@
+C:\Users\vlarm\source\repos\Daily_Report_Assignment\DAILY_REPORT _ASSIGNMENT\bin\Debug\DAILY_REPORT _ASSIGNMENT.exe.config
+C:\Users\vlarm\source\repos\Daily_Report_Assignment\DAILY_REPORT _ASSIGNMENT\bin\Debug\DAILY_REPORT _ASSIGNMENT.exe
+C:\Users\vlarm\source\repos\Daily_Report_Assignment\DAILY_REPORT _ASSIGNMENT\bin\Debug\DAILY_REPORT _ASSIGNMENT.pdb
+C:\Users\vlarm\source\repos\Daily_Report_Assignment\DAILY_REPORT _ASSIGNMENT\obj\Debug\DAILY_REPORT _ASSIGNMENT.csproj.AssemblyReference.cache
+C:\Users\vlarm\source\repos\Daily_Report_Assignment\DAILY_REPORT _ASSIGNMENT\obj\Debug\DAILY_REPORT _ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\vlarm\source\repos\Daily_Report_Assignment\DAILY_REPORT _ASSIGNMENT\obj\Debug\DAILY_REPORT _ASSIGNMENT.exe
+C:\Users\vlarm\source\repos\Daily_Report_Assignment\DAILY_REPORT _ASSIGNMENT\obj\Debug\DAILY_REPORT _ASSIGNMENT.pdb

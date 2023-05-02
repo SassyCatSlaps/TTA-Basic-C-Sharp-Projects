@@ -1,0 +1,7 @@
+C:\Users\vlarm\source\repos\CS_Data_Types_Practice\Data_Types_Practice\bin\Debug\Data_Types_Practice.exe.config
+C:\Users\vlarm\source\repos\CS_Data_Types_Practice\Data_Types_Practice\bin\Debug\Data_Types_Practice.exe
+C:\Users\vlarm\source\repos\CS_Data_Types_Practice\Data_Types_Practice\bin\Debug\Data_Types_Practice.pdb
+C:\Users\vlarm\source\repos\CS_Data_Types_Practice\Data_Types_Practice\obj\Debug\Data_Types_Practice.csproj.AssemblyReference.cache
+C:\Users\vlarm\source\repos\CS_Data_Types_Practice\Data_Types_Practice\obj\Debug\Data_Types_Practice.csproj.CoreCompileInputs.cache
+C:\Users\vlarm\source\repos\CS_Data_Types_Practice\Data_Types_Practice\obj\Debug\Data_Types_Practice.exe
+C:\Users\vlarm\source\repos\CS_Data_Types_Practice\Data_Types_Practice\obj\Debug\Data_Types_Practice.pdb
