@@ -1,0 +1,7 @@
+C:\Users\vlarm\source\repos\Maths_Console_App\CONSOLE APPLICATION ASSIGNMENT\bin\Debug\CONSOLE APPLICATION ASSIGNMENT.exe.config
+C:\Users\vlarm\source\repos\Maths_Console_App\CONSOLE APPLICATION ASSIGNMENT\bin\Debug\CONSOLE APPLICATION ASSIGNMENT.exe
+C:\Users\vlarm\source\repos\Maths_Console_App\CONSOLE APPLICATION ASSIGNMENT\bin\Debug\CONSOLE APPLICATION ASSIGNMENT.pdb
+C:\Users\vlarm\source\repos\Maths_Console_App\CONSOLE APPLICATION ASSIGNMENT\obj\Debug\CONSOLE APPLICATION ASSIGNMENT.csproj.AssemblyReference.cache
+C:\Users\vlarm\source\repos\Maths_Console_App\CONSOLE APPLICATION ASSIGNMENT\obj\Debug\CONSOLE APPLICATION ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\vlarm\source\repos\Maths_Console_App\CONSOLE APPLICATION ASSIGNMENT\obj\Debug\CONSOLE APPLICATION ASSIGNMENT.exe
+C:\Users\vlarm\source\repos\Maths_Console_App\CONSOLE APPLICATION ASSIGNMENT\obj\Debug\CONSOLE APPLICATION ASSIGNMENT.pdb
