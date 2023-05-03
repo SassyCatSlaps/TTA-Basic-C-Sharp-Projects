@@ -1,0 +1,7 @@
+C:\Users\vlarm\source\repos\MathsChallenge\MATH _CHALLENGE\bin\Debug\MATH _CHALLENGE.exe.config
+C:\Users\vlarm\source\repos\MathsChallenge\MATH _CHALLENGE\bin\Debug\MATH _CHALLENGE.exe
+C:\Users\vlarm\source\repos\MathsChallenge\MATH _CHALLENGE\bin\Debug\MATH _CHALLENGE.pdb
+C:\Users\vlarm\source\repos\MathsChallenge\MATH _CHALLENGE\obj\Debug\MATH _CHALLENGE.csproj.AssemblyReference.cache
+C:\Users\vlarm\source\repos\MathsChallenge\MATH _CHALLENGE\obj\Debug\MATH _CHALLENGE.csproj.CoreCompileInputs.cache
+C:\Users\vlarm\source\repos\MathsChallenge\MATH _CHALLENGE\obj\Debug\MATH _CHALLENGE.exe
+C:\Users\vlarm\source\repos\MathsChallenge\MATH _CHALLENGE\obj\Debug\MATH _CHALLENGE.pdb
