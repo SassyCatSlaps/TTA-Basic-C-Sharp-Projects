@@ -1,0 +1,7 @@
+C:\Users\vlarm\source\repos\MathsAndComparisonOperator\Maths_And_Comparison_Operator\bin\Debug\Maths_And_Comparison_Operator.exe.config
+C:\Users\vlarm\source\repos\MathsAndComparisonOperator\Maths_And_Comparison_Operator\bin\Debug\Maths_And_Comparison_Operator.exe
+C:\Users\vlarm\source\repos\MathsAndComparisonOperator\Maths_And_Comparison_Operator\bin\Debug\Maths_And_Comparison_Operator.pdb
+C:\Users\vlarm\source\repos\MathsAndComparisonOperator\Maths_And_Comparison_Operator\obj\Debug\Maths_And_Comparison_Operator.csproj.AssemblyReference.cache
+C:\Users\vlarm\source\repos\MathsAndComparisonOperator\Maths_And_Comparison_Operator\obj\Debug\Maths_And_Comparison_Operator.csproj.CoreCompileInputs.cache
+C:\Users\vlarm\source\repos\MathsAndComparisonOperator\Maths_And_Comparison_Operator\obj\Debug\Maths_And_Comparison_Operator.exe
+C:\Users\vlarm\source\repos\MathsAndComparisonOperator\Maths_And_Comparison_Operator\obj\Debug\Maths_And_Comparison_Operator.pdb
