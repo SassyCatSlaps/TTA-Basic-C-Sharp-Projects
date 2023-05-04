@@ -1,0 +1,7 @@
+C:\Users\vlarm\source\repos\Boolean_Logic_Assignment\BOOLEAN_LOGIC_SUBMISSION_ASSIGNMENT\bin\Debug\BOOLEAN_LOGIC_SUBMISSION_ASSIGNMENT.exe.config
+C:\Users\vlarm\source\repos\Boolean_Logic_Assignment\BOOLEAN_LOGIC_SUBMISSION_ASSIGNMENT\bin\Debug\BOOLEAN_LOGIC_SUBMISSION_ASSIGNMENT.exe
+C:\Users\vlarm\source\repos\Boolean_Logic_Assignment\BOOLEAN_LOGIC_SUBMISSION_ASSIGNMENT\bin\Debug\BOOLEAN_LOGIC_SUBMISSION_ASSIGNMENT.pdb
+C:\Users\vlarm\source\repos\Boolean_Logic_Assignment\BOOLEAN_LOGIC_SUBMISSION_ASSIGNMENT\obj\Debug\BOOLEAN_LOGIC_SUBMISSION_ASSIGNMENT.csproj.AssemblyReference.cache
+C:\Users\vlarm\source\repos\Boolean_Logic_Assignment\BOOLEAN_LOGIC_SUBMISSION_ASSIGNMENT\obj\Debug\BOOLEAN_LOGIC_SUBMISSION_ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\vlarm\source\repos\Boolean_Logic_Assignment\BOOLEAN_LOGIC_SUBMISSION_ASSIGNMENT\obj\Debug\BOOLEAN_LOGIC_SUBMISSION_ASSIGNMENT.exe
+C:\Users\vlarm\source\repos\Boolean_Logic_Assignment\BOOLEAN_LOGIC_SUBMISSION_ASSIGNMENT\obj\Debug\BOOLEAN_LOGIC_SUBMISSION_ASSIGNMENT.pdb
