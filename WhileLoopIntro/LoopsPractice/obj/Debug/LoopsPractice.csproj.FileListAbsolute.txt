@@ -1,0 +1,7 @@
+C:\Users\vlarm\source\repos\LoopsIntro\LoopsPractice\bin\Debug\LoopsPractice.exe.config
+C:\Users\vlarm\source\repos\LoopsIntro\LoopsPractice\bin\Debug\LoopsPractice.exe
+C:\Users\vlarm\source\repos\LoopsIntro\LoopsPractice\bin\Debug\LoopsPractice.pdb
+C:\Users\vlarm\source\repos\LoopsIntro\LoopsPractice\obj\Debug\LoopsPractice.csproj.AssemblyReference.cache
+C:\Users\vlarm\source\repos\LoopsIntro\LoopsPractice\obj\Debug\LoopsPractice.csproj.CoreCompileInputs.cache
+C:\Users\vlarm\source\repos\LoopsIntro\LoopsPractice\obj\Debug\LoopsPractice.exe
+C:\Users\vlarm\source\repos\LoopsIntro\LoopsPractice\obj\Debug\LoopsPractice.pdb
