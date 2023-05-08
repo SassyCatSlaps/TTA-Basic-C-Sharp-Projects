@@ -1,0 +1,7 @@
+C:\Users\vlarm\source\repos\STRING_ASSIGNMENT_Step-233\STRING-ASSIGNMENT\bin\Debug\STRING-ASSIGNMENT.exe.config
+C:\Users\vlarm\source\repos\STRING_ASSIGNMENT_Step-233\STRING-ASSIGNMENT\bin\Debug\STRING-ASSIGNMENT.exe
+C:\Users\vlarm\source\repos\STRING_ASSIGNMENT_Step-233\STRING-ASSIGNMENT\bin\Debug\STRING-ASSIGNMENT.pdb
+C:\Users\vlarm\source\repos\STRING_ASSIGNMENT_Step-233\STRING-ASSIGNMENT\obj\Debug\STRING-ASSIGNMENT.csproj.AssemblyReference.cache
+C:\Users\vlarm\source\repos\STRING_ASSIGNMENT_Step-233\STRING-ASSIGNMENT\obj\Debug\STRING-ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\vlarm\source\repos\STRING_ASSIGNMENT_Step-233\STRING-ASSIGNMENT\obj\Debug\STRING-ASSIGNMENT.exe
+C:\Users\vlarm\source\repos\STRING_ASSIGNMENT_Step-233\STRING-ASSIGNMENT\obj\Debug\STRING-ASSIGNMENT.pdb
