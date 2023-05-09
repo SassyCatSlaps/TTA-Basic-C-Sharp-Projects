@@ -1,0 +1,7 @@
+C:\Users\vlarm\source\repos\Arrays+Lists_Step-236\ARRAYS-AND-LISTS\obj\Debug\ARRAYS-AND-LISTS.csproj.AssemblyReference.cache
+C:\Users\vlarm\source\repos\Arrays+Lists_Step-236\ARRAYS-AND-LISTS\obj\Debug\ARRAYS-AND-LISTS.csproj.CoreCompileInputs.cache
+C:\Users\vlarm\source\repos\Arrays+Lists_Step-236\ARRAYS-AND-LISTS\bin\Debug\ARRAYS-AND-LISTS.exe.config
+C:\Users\vlarm\source\repos\Arrays+Lists_Step-236\ARRAYS-AND-LISTS\bin\Debug\ARRAYS-AND-LISTS.exe
+C:\Users\vlarm\source\repos\Arrays+Lists_Step-236\ARRAYS-AND-LISTS\bin\Debug\ARRAYS-AND-LISTS.pdb
+C:\Users\vlarm\source\repos\Arrays+Lists_Step-236\ARRAYS-AND-LISTS\obj\Debug\ARRAYS-AND-LISTS.exe
+C:\Users\vlarm\source\repos\Arrays+Lists_Step-236\ARRAYS-AND-LISTS\obj\Debug\ARRAYS-AND-LISTS.pdb
