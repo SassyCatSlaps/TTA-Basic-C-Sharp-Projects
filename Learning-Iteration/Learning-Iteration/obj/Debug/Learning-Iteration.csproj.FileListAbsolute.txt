@@ -1,0 +1,7 @@
+C:\Users\vlarm\source\repos\Learning-Iteration\Learning-Iteration\bin\Debug\Learning-Iteration.exe.config
+C:\Users\vlarm\source\repos\Learning-Iteration\Learning-Iteration\bin\Debug\Learning-Iteration.exe
+C:\Users\vlarm\source\repos\Learning-Iteration\Learning-Iteration\bin\Debug\Learning-Iteration.pdb
+C:\Users\vlarm\source\repos\Learning-Iteration\Learning-Iteration\obj\Debug\Learning-Iteration.csproj.AssemblyReference.cache
+C:\Users\vlarm\source\repos\Learning-Iteration\Learning-Iteration\obj\Debug\Learning-Iteration.csproj.CoreCompileInputs.cache
+C:\Users\vlarm\source\repos\Learning-Iteration\Learning-Iteration\obj\Debug\Learning-Iteration.exe
+C:\Users\vlarm\source\repos\Learning-Iteration\Learning-Iteration\obj\Debug\Learning-Iteration.pdb
