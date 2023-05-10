@@ -1,0 +1,7 @@
+C:\Users\vlarm\source\repos\ConsoleAppAssignment_Pt.1\CONSOLE_APP_PART-ONE_ASSIGNMENT\bin\Debug\CONSOLE_APP_PART-ONE_ASSIGNMENT.exe.config
+C:\Users\vlarm\source\repos\ConsoleAppAssignment_Pt.1\CONSOLE_APP_PART-ONE_ASSIGNMENT\bin\Debug\CONSOLE_APP_PART-ONE_ASSIGNMENT.exe
+C:\Users\vlarm\source\repos\ConsoleAppAssignment_Pt.1\CONSOLE_APP_PART-ONE_ASSIGNMENT\bin\Debug\CONSOLE_APP_PART-ONE_ASSIGNMENT.pdb
+C:\Users\vlarm\source\repos\ConsoleAppAssignment_Pt.1\CONSOLE_APP_PART-ONE_ASSIGNMENT\obj\Debug\CONSOLE_APP_PART-ONE_ASSIGNMENT.csproj.AssemblyReference.cache
+C:\Users\vlarm\source\repos\ConsoleAppAssignment_Pt.1\CONSOLE_APP_PART-ONE_ASSIGNMENT\obj\Debug\CONSOLE_APP_PART-ONE_ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\vlarm\source\repos\ConsoleAppAssignment_Pt.1\CONSOLE_APP_PART-ONE_ASSIGNMENT\obj\Debug\CONSOLE_APP_PART-ONE_ASSIGNMENT.exe
+C:\Users\vlarm\source\repos\ConsoleAppAssignment_Pt.1\CONSOLE_APP_PART-ONE_ASSIGNMENT\obj\Debug\CONSOLE_APP_PART-ONE_ASSIGNMENT.pdb
