@@ -1,0 +1,7 @@
+C:\Users\vlarm\source\repos\StructAssignment\StructAssignment\obj\Debug\StructAssignment.csproj.AssemblyReference.cache
+C:\Users\vlarm\source\repos\StructAssignment\StructAssignment\obj\Debug\StructAssignment.csproj.CoreCompileInputs.cache
+C:\Users\vlarm\source\repos\StructAssignment\StructAssignment\bin\Debug\StructAssignment.exe.config
+C:\Users\vlarm\source\repos\StructAssignment\StructAssignment\bin\Debug\StructAssignment.exe
+C:\Users\vlarm\source\repos\StructAssignment\StructAssignment\bin\Debug\StructAssignment.pdb
+C:\Users\vlarm\source\repos\StructAssignment\StructAssignment\obj\Debug\StructAssignment.exe
+C:\Users\vlarm\source\repos\StructAssignment\StructAssignment\obj\Debug\StructAssignment.pdb
