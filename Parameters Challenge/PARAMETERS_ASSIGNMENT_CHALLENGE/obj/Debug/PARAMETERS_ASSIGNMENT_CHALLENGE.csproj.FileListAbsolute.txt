@@ -1,0 +1,7 @@
+C:\Users\vlarm\source\repos\Parameters Challenge\PARAMETERS_ASSIGNMENT_CHALLENGE\bin\Debug\PARAMETERS_ASSIGNMENT_CHALLENGE.exe.config
+C:\Users\vlarm\source\repos\Parameters Challenge\PARAMETERS_ASSIGNMENT_CHALLENGE\bin\Debug\PARAMETERS_ASSIGNMENT_CHALLENGE.exe
+C:\Users\vlarm\source\repos\Parameters Challenge\PARAMETERS_ASSIGNMENT_CHALLENGE\bin\Debug\PARAMETERS_ASSIGNMENT_CHALLENGE.pdb
+C:\Users\vlarm\source\repos\Parameters Challenge\PARAMETERS_ASSIGNMENT_CHALLENGE\obj\Debug\PARAMETERS_ASSIGNMENT_CHALLENGE.csproj.AssemblyReference.cache
+C:\Users\vlarm\source\repos\Parameters Challenge\PARAMETERS_ASSIGNMENT_CHALLENGE\obj\Debug\PARAMETERS_ASSIGNMENT_CHALLENGE.csproj.CoreCompileInputs.cache
+C:\Users\vlarm\source\repos\Parameters Challenge\PARAMETERS_ASSIGNMENT_CHALLENGE\obj\Debug\PARAMETERS_ASSIGNMENT_CHALLENGE.exe
+C:\Users\vlarm\source\repos\Parameters Challenge\PARAMETERS_ASSIGNMENT_CHALLENGE\obj\Debug\PARAMETERS_ASSIGNMENT_CHALLENGE.pdb
