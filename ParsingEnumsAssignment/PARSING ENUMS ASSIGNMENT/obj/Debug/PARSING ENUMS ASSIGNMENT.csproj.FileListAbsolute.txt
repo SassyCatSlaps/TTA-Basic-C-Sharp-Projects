@@ -1,0 +1,7 @@
+C:\Users\vlarm\source\repos\ParsingEnums\PARSING ENUMS ASSIGNMENT\bin\Debug\PARSING ENUMS ASSIGNMENT.exe.config
+C:\Users\vlarm\source\repos\ParsingEnums\PARSING ENUMS ASSIGNMENT\bin\Debug\PARSING ENUMS ASSIGNMENT.exe
+C:\Users\vlarm\source\repos\ParsingEnums\PARSING ENUMS ASSIGNMENT\bin\Debug\PARSING ENUMS ASSIGNMENT.pdb
+C:\Users\vlarm\source\repos\ParsingEnums\PARSING ENUMS ASSIGNMENT\obj\Debug\PARSING ENUMS ASSIGNMENT.csproj.AssemblyReference.cache
+C:\Users\vlarm\source\repos\ParsingEnums\PARSING ENUMS ASSIGNMENT\obj\Debug\PARSING ENUMS ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\vlarm\source\repos\ParsingEnums\PARSING ENUMS ASSIGNMENT\obj\Debug\PARSING ENUMS ASSIGNMENT.exe
+C:\Users\vlarm\source\repos\ParsingEnums\PARSING ENUMS ASSIGNMENT\obj\Debug\PARSING ENUMS ASSIGNMENT.pdb
