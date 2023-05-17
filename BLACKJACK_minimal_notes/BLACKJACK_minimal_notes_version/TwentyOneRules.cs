@@ -50,9 +50,15 @@ namespace TwentyOne
         public static bool CheckForBlackJack(List<Card> Hand)
         {
             int[] possibleValues = GetAllPossibleHandValues(Hand);
-            int value = possibleValues.Max();
-            if (value == 21) return true;
-            else return false;
+            // oops this code wasn't placed in a foreach loop! updated/fixed!
+            //int value = possibleValues.Max();
+            //if (value == 21) return true;
+            //else return false;
+            foreach (int x in possibleValues)
+            {
+                if (x == 21) return true;
+            }
+            return false;
         }
 
         // Method checks for a player Bust
@@ -83,8 +89,9 @@ namespace TwentyOne
             int[] playerResults = GetAllPossibleHandValues(PlayerHand);
             int[] dealerResults = GetAllPossibleHandValues(DealerHand);
             // I found an error with the below line and fixed it with a LINQ extension method ' .DefaultIfEmpty(0) '
-            //int playerScore = playerResults.Where(x => x < 22).Max();
-            int playerScore = playerResults.Where(x => x < 22).DefaultIfEmpty(0).Max();
+            // I then discovered I did a silly and when I fixed the logic in the 'CheckForBlackJack' method I was then able to take the extension method out
+            //int playerScore = playerResults.Where(x => x < 22).DefaultIfEmpty(0).Max();
+            int playerScore = playerResults.Where(x => x < 22).Max();
             int dealerScore = dealerResults.Where(x => x < 22).Max();
 
             if (playerScore > dealerScore)
