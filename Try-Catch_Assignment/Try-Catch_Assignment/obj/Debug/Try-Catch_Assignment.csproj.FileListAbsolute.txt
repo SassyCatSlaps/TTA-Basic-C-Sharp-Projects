@@ -1,0 +1,7 @@
+C:\Users\vlarm\source\repos\Try-Catch_Assignment\Try-Catch_Assignment\bin\Debug\Try-Catch_Assignment.exe.config
+C:\Users\vlarm\source\repos\Try-Catch_Assignment\Try-Catch_Assignment\bin\Debug\Try-Catch_Assignment.exe
+C:\Users\vlarm\source\repos\Try-Catch_Assignment\Try-Catch_Assignment\bin\Debug\Try-Catch_Assignment.pdb
+C:\Users\vlarm\source\repos\Try-Catch_Assignment\Try-Catch_Assignment\obj\Debug\Try-Catch_Assignment.csproj.AssemblyReference.cache
+C:\Users\vlarm\source\repos\Try-Catch_Assignment\Try-Catch_Assignment\obj\Debug\Try-Catch_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\vlarm\source\repos\Try-Catch_Assignment\Try-Catch_Assignment\obj\Debug\Try-Catch_Assignment.exe
+C:\Users\vlarm\source\repos\Try-Catch_Assignment\Try-Catch_Assignment\obj\Debug\Try-Catch_Assignment.pdb
