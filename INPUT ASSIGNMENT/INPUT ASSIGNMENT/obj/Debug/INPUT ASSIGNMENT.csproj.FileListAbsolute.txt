@@ -1,0 +1,7 @@
+C:\Users\vlarm\source\repos\INPUT ASSIGNMENT\INPUT ASSIGNMENT\bin\Debug\INPUT ASSIGNMENT.exe.config
+C:\Users\vlarm\source\repos\INPUT ASSIGNMENT\INPUT ASSIGNMENT\bin\Debug\INPUT ASSIGNMENT.exe
+C:\Users\vlarm\source\repos\INPUT ASSIGNMENT\INPUT ASSIGNMENT\bin\Debug\INPUT ASSIGNMENT.pdb
+C:\Users\vlarm\source\repos\INPUT ASSIGNMENT\INPUT ASSIGNMENT\obj\Debug\INPUT ASSIGNMENT.csproj.AssemblyReference.cache
+C:\Users\vlarm\source\repos\INPUT ASSIGNMENT\INPUT ASSIGNMENT\obj\Debug\INPUT ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\vlarm\source\repos\INPUT ASSIGNMENT\INPUT ASSIGNMENT\obj\Debug\INPUT ASSIGNMENT.exe
+C:\Users\vlarm\source\repos\INPUT ASSIGNMENT\INPUT ASSIGNMENT\obj\Debug\INPUT ASSIGNMENT.pdb
