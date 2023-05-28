@@ -30,7 +30,7 @@ namespace CarInsurance.Controllers
 {
     public class InsureeController : Controller
     {
-        // 3. c. Had to add a new action method that is responsible for rendering the admin view in the browser so I could see if my "Admin.cshtml" -- had to add some new route mapping to "RouteConfig.cs" to make this work
+        // 3. c. Had to add a new action method that is responsible for rendering the admin view in the browser so I could see if my "Admin.cshtml" additions were ok -- had to add some new route mapping to "RouteConfig.cs" to make this work
         // Could also add '[Route]' attribute to 'Admin' action method for this step
         public ActionResult Admin()
         {
