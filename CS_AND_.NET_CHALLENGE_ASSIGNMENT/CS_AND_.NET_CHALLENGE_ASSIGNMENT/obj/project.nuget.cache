@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JTfj6concqeZoop/UDCW/lHBr32ss+z7b+w+/fhjcaC8Oph1NF4skLjLl09/LzN5IqXnoB73IGQx1sudl039ag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vlarm\\source\\repos\\CS_AND_.NET_CHALLENGE_ASSIGNMENT\\CS_AND_.NET_CHALLENGE_ASSIGNMENT\\CS_AND_.NET_CHALLENGE_ASSIGNMENT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vlarm\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
