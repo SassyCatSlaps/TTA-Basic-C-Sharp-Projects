@@ -1,0 +1,42 @@
+﻿<!-- 3. a. Add an Admin View for a site administrator to the Insuree Views -->
+
+<!-- By using 'IEnumerable'' as the model type in a view, I can work with any collection of objects that use this interface -- can easily iterate over & display the data in the view for admins -->
+@model IEnumerable<CarInsurance.Models.Insuree>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Admin</title>
+</head>
+
+<body>
+    <!-- 3. a. This page must show all quotes issued, along with the user's first name, last name, and email address. -->
+    <!-- I did this part a little different just for fun -->
+    <h2>All Quotes Issued</h2>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Email Address</th>
+                <th>Quote</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var insuree in Model)
+            {
+                <tr>
+                    <td>@insuree.FirstName</td>
+                    <td>@insuree.LastName</td>
+                    <td>@insuree.EmailAddress</td>
+                    <td>@insuree.Quote</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</body>
+</html>
