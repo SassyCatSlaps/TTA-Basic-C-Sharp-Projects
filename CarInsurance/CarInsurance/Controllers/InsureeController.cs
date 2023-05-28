@@ -146,8 +146,8 @@ namespace CarInsurance.Controllers
                     userMonthlyBillTotal *= 1.5m;
                 }
 
-                // SEE "Create.cshtml" FOR STEP 2: Modify the Create View so that the user does not see the “Quote” input field"
-                // SEE "Admin.cshtml" FOR STEP 3: Add an Admin View for a site administrator to the Insuree Views. This page must show all quotes issued, along with the user's first name, last name, and email address
+                // SEE "Create.cshtml" FOR STEP 2
+                // SEE "Admin.cshtml + RouteConfig.cs + InsureeController.cs" FOR STEP 3
 
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
