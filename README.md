@@ -15,7 +15,7 @@
 
 <br>
 
-[News Letter](https://github.com/SassyCatSlaps/TTA-Basic-C-Sharp-Projects/tree/main/NewsletterAppMVC)
+[News Letter](https://github.com/SassyCatSlaps/JavaScript-Projects/tree/main/NewsletterAppMVC/NewsletterAppMVC)
 
 <br>
 
