@@ -7,12 +7,19 @@
 <h2>Projects</h2>
 <br />
 [Car Insurance](https://github.com/SassyCatSlaps/TTA-Basic-C-Sharp-Projects/tree/main/CarInsurance/CarInsurance)
+
 <br>
+
 [Black Jack](https://github.com/SassyCatSlaps/TTA-Basic-C-Sharp-Projects/tree/main/BLACKJACK_minimal_notes/BLACKJACK_minimal_notes_version)
+
 <br>
+
 [News Letter](https://github.com/SassyCatSlaps/TTA-Basic-C-Sharp-Projects/tree/main/NewsletterAppMVC)
+
 <br>
+
 [All C# Work](https://github.com/SassyCatSlaps/TTA-Basic-C-Sharp-Projects)
+
 
 <br />
 <h1></h1>
