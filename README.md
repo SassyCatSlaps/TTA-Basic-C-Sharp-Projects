@@ -25,7 +25,7 @@
 <br />
 <h1></h1>
 <br />
-<h3>Car Insurance</h>
+<h3>Car Insurance</h3>
 <br />
 <p>This is a MVC web app that imitates actions one would find on a car insurance website. This project takes in user input on their insurance policy information and calculates
 quotes based ib business logic. Included in this application is an admin page that allows apointed staff to view all generated quotes that have been issued.</p>
