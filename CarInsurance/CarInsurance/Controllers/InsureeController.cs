@@ -149,6 +149,7 @@ namespace CarInsurance.Controllers
                 // SEE "Create.cshtml" FOR STEP 2
                 // SEE "Admin.cshtml + RouteConfig.cs + InsureeController.cs" FOR STEP 3
 
+                insuree.Quote = userMonthlyBillTotal;
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
                 return RedirectToAction("Index");

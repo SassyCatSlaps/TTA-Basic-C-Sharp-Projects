@@ -1,0 +1,7 @@
+C:\Users\vlarm\source\repos\STRINGS-VIDEO-STEP-231\STRINGS-VIDEO\bin\Debug\STRINGS-VIDEO.exe.config
+C:\Users\vlarm\source\repos\STRINGS-VIDEO-STEP-231\STRINGS-VIDEO\bin\Debug\STRINGS-VIDEO.exe
+C:\Users\vlarm\source\repos\STRINGS-VIDEO-STEP-231\STRINGS-VIDEO\bin\Debug\STRINGS-VIDEO.pdb
+C:\Users\vlarm\source\repos\STRINGS-VIDEO-STEP-231\STRINGS-VIDEO\obj\Debug\STRINGS-VIDEO.csproj.AssemblyReference.cache
+C:\Users\vlarm\source\repos\STRINGS-VIDEO-STEP-231\STRINGS-VIDEO\obj\Debug\STRINGS-VIDEO.csproj.CoreCompileInputs.cache
+C:\Users\vlarm\source\repos\STRINGS-VIDEO-STEP-231\STRINGS-VIDEO\obj\Debug\STRINGS-VIDEO.exe
+C:\Users\vlarm\source\repos\STRINGS-VIDEO-STEP-231\STRINGS-VIDEO\obj\Debug\STRINGS-VIDEO.pdb
